@@ -1,0 +1,24 @@
+.cardDetails{
+    border-radius: 5px;
+    padding: 5px 15px;
+    background-color: rgb(36, 36, 36);
+    color: white;
+    max-width: 25%;
+    max-height: 100vh;
+}
+
+.cardDetails ul {
+    display: inline-block;
+    justify-content: center;
+    padding: 15px 25px 15px 25px;
+    border-radius: 5px;
+    background-color: crimson;
+    color: white;
+    font-weight: 600;
+    list-style: none;
+}
+.cardDetails li {
+    margin: 5px 0;
+    list-style: none;
+}
+

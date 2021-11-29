@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    font-family:Helvetica, sans-serif;
+}
+.containerCardInfo {
+    display: flex;
+}
+.title {
+    padding: 25px;
+    margin-bottom: 25px;
+    color: white;
+    background-color: rgb(36, 36, 36);
+}

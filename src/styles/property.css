@@ -1,0 +1,41 @@
+.containerProp {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.propCard {
+    display: flex;
+    border-radius: 5px;
+    flex-direction: column;
+    background-color: rgb(36, 36, 36);
+}
+
+.containerTitle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.propCard img {
+    border-radius: 5px 5px 0 0;
+}
+
+.propCard p {
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+    margin-left: 15px;
+}
+.propCard button {
+    margin-right: 15px;
+    height: 80%;
+    width: 40%;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: crimson;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
